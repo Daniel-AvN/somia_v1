@@ -696,6 +696,6 @@ img{
 .container__file{
     width: 800px;
     min-height: 500px;
-    box-shadow: 0 0 4px  var(--main-color);
+    /* box-shadow: 0 0 4px  var(--main-color); */
     border-radius: 10px;
 }
