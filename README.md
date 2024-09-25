@@ -2,14 +2,14 @@
 
 [Pagina Web](https://daniel-avn.github.io/somia_v1)
 
-El modelo de detección de cáncer de tiroides se divide en las categorías de TIRADS (Thyroid Imaging Reporting and Data System), que van del 1 al 5, donde:\n\n
+El modelo de detección de cáncer de tiroides se divide en las categorías de TIRADS (Thyroid Imaging Reporting and Data System), que van del 1 al 5, donde:
 
-TIRADS 1: No hay evidencia de nódulos.\n
-TIRADS 2: Lesión benigna.\n
-TIRADS 3: Lesión probablemente benigna.\n
-TIRADS 4A: Lesión con un bajo riesgo de malignidad.\n
-TIRADS 4B: Lesión con un riesgo intermedio de malignidad.\n
-TIRADS 5: Lesión altamente sospechosa de malignidad.\n
+TIRADS 1: No hay evidencia de nódulos.
+TIRADS 2: Lesión benigna.
+TIRADS 3: Lesión probablemente benigna.
+TIRADS 4A: Lesión con un bajo riesgo de malignidad.
+TIRADS 4B: Lesión con un riesgo intermedio de malignidad.
+TIRADS 5: Lesión altamente sospechosa de malignidad.
 
 
 
