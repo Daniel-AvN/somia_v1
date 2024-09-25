@@ -694,8 +694,9 @@ img{
 }
 
 .container__file{
-    width: 800px;
-    min-height: 500px;
+    margin-top: 40px;
+    width: 1000px;
+    min-height: 600px;
     /* box-shadow: 0 0 4px  var(--main-color); */
     border-radius: 10px;
 }
