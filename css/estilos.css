@@ -694,7 +694,7 @@ img{
 }
 
 .container__file{
-    margin-top: 40px;
+    margin: 70px;
     width: 1000px;
     min-height: 600px;
     /* box-shadow: 0 0 4px  var(--main-color); */
