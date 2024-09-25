@@ -2,12 +2,12 @@
 
 :root {
     --padding-container: 100px 0;
-    --color-title: green;
+    --color-title: rgb(0, 213, 255);
 }
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(205, 234, 205);
+    background-color: rgb(205, 224, 234);
 }
 
 img{
