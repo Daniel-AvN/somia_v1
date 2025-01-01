@@ -27,3 +27,5 @@ El uso del modelo implica la aceptación de que los resultados obtenidos deben s
 ---
 
 Este texto proporciona una clara advertencia sobre las limitaciones del modelo y subraya la importancia del papel del profesional médico en el proceso diagnóstico, ayudando a mitigar posibles responsabilidades legales.
+
+Autor: Leonardo Daniel Aviña Neri
