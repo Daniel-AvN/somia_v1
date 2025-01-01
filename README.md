@@ -18,7 +18,7 @@ TIRADS 5: Lesión altamente sospechosa de malignidad.
 El presente modelo de inteligencia artificial ha sido desarrollado con el objetivo de asistir en la detección del cáncer de tiroides mediante el análisis de imágenes. Sin embargo, es importante destacar que este modelo no garantiza resultados infalibles ni debe ser considerado como un sustituto del juicio clínico profesional. 
 
 **Limitaciones del modelo:**
-- **Precisión:** Aunque el modelo ha mostrado una alta tasa de precisión en estudios clínicos, no se puede asegurar que sea 100% efectivo en todos los casos. Los resultados pueden variar dependiendo de múltiples factores, incluyendo la calidad de las imágenes y las características específicas de cada paciente.
+- **Precisión:** Aunque el modelo ha mostrado una tasa aceptable de precisión en estudios clínicos, no se puede asegurar que sea 100% efectivo en todos los casos. Los resultados pueden variar dependiendo de múltiples factores, incluyendo la calidad de las imágenes y las características específicas de cada paciente.
 - **Evaluación profesional:** Se recomienda encarecidamente que cualquier diagnóstico o decisión clínica sea realizado por un médico calificado. El modelo debe ser utilizado como una herramienta complementaria y no como una fuente única de diagnóstico.
 
 **Responsabilidad:** 
